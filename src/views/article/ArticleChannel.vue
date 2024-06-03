@@ -1,3 +1,3 @@
 <template>
-  <div>频道管理</div>
+  <div>频道</div>
 </template>

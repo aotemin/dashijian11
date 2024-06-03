@@ -1,3 +1,3 @@
 <template>
-  <div>更换头像</div>
+  <div>换头像</div>
 </template>

@@ -1,3 +1,3 @@
 <template>
-  <div>重置密码</div>
+  <div>换密码</div>
 </template>

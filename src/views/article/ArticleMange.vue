@@ -1,3 +1,3 @@
 <template>
-  <div>文章管理</div>
+  <div>文章管li</div>
 </template>

@@ -1,3 +1,3 @@
 <template>
-  <div>登录页面</div>
+  <div>登录页免</div>
 </template>
